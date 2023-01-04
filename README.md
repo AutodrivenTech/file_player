@@ -1,5 +1,7 @@
 # File player for complex urban data set
 
+This fork have made the package work with pcl1.10 above and opencv4.0
+
 ## News
 - Aug 2021: Our dataset is now available via [this google-site (https://bit.ly/complex-urban-dataset)](https://sites.google.com/view/complex-urban-dataset).
 
